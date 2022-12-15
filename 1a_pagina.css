@@ -1,0 +1,22 @@
+.inicial {
+	width: 100%
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	text-align: center;
+	font-size: 17px;
+	margin-top: 100px;
+}
+
+#foto1 {
+	width: 30%;
+	height: 30%;
+}
+
+.arrow {
+	position: absolute;
+	top: 1;
+	right: 25%;
+	font-size: 12px;
+	margin-top: 20px;
+}

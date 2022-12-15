@@ -1,0 +1,42 @@
+.tela_login {
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	text-align: center;
+	margin-top: 60px;
+}
+
+#foto2 {
+	width: 30%;
+}
+
+.caixa {
+	width: 100%;
+}
+
+.dados_login{
+	width: 500px;
+	position: relative;
+	left: 35%;
+}
+
+.form-group {
+	width: 400px;
+}
+
+.esqueceu {
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	text-align: center;
+	margin-top: 30px;
+}
+
+.criar_conta {
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	text-align: center;
+	margin-top: 30px;
+	margin-bottom: 100px;
+}
